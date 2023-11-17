@@ -4,11 +4,11 @@
 
 # Before start
 
-set your python env
+Step1:Set your python env
 
-Change your filelist file path here in [main.py](http://main.py "main.py")
+Step2:Change your filelist file path here in [main.py](http://main.py "main.py")
 
-file\_path='C:/Users/shaok/PycharmProjects/pythonProject/check\_filelist/filelist.f'
+      file\_path='C:/Users/shaok/PycharmProjects/pythonProject/check\_filelist/filelist.f'
 
 # Example
 
@@ -22,9 +22,9 @@ file\_path='C:/Users/shaok/PycharmProjects/pythonProject/check\_filelist/filelis
 
 filelist.f
 
-\|-filelist\_hierarych1.f
+   |-filelist\_hierarych1.f
 
-\|-filelist\_hierarych2.f
+      |-filelist\_hierarych2.f
 
 # Result
 
